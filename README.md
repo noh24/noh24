@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on anything! Message me if you're interested
-- 📫 How to reach me noh24@ymail.com
+- 📫 Reach me through _noh24@ymail.com_
 
 <!---
 noh24/noh24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
