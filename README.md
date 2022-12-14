@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brian.
-- 👀 I’m interested in programming.
+- 👀 I’m interested in learning how to program.
 - 🌱 I’m currently learning JavaScript and C#.
 - 💞️ I’m looking to collaborate on anything! Message me if you're interested
 - 📫 Reach me through _noh24@ymail.com_
