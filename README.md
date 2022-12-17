@@ -11,7 +11,7 @@
   <br>
   <br>
   <a href="https://github.com/noh24">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noh24"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noh24&layout=compact&theme=dracula"/>
   <a>
 </p>
 <!---
