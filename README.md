@@ -9,6 +9,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=noh24&count_private=true&show_icons=true&theme=dracula"/>
   </a>
   <br>
+  <br>
   <a href="https://github.com/noh24">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noh24"/>
   <a>
