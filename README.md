@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Brian.
-- 👀 I’m interested in learning how to program.
-- 🌱 I’m currently learning JavaScript and C# at [Epicodus](https://www.epicodus.com/)
 - 💞️ I’m looking to collaborate on anything! Message me if you're interested
-- 📫 Reach me through _noh24@ymail.com_
+- 📫 Reach me through _brian.noh95@gmail.com_
 --- 
   <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/brian-noh/">
