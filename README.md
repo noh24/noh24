@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brian.
-- 💞️ I’m looking to collaborate on anything! Message me if you're interested
+- 💞️ I like building solutions to real world problems. Message me if you want to collaborate! 
 - 📫 Reach me through _brian.noh95@gmail.com_
 --- 
   <div id="badges" align="center">
@@ -17,7 +17,6 @@
     </div>
   </div>
   
-
 <div align="center"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" **alt="CSharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -31,6 +30,7 @@
 
 ---
 
+<!--
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=noh24&theme=dracula">
@@ -46,7 +46,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noh24&layout=compact&theme=dracula"/>
   <a>
 </p>
-    
+    -->
 <!-- -
 noh24/noh24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
